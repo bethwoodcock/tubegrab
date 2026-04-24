@@ -1,6 +1,5 @@
 # tubegrab
 gui for grabbing the 'tube
-audio or video
 
 ---
 
