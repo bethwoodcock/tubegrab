@@ -5,34 +5,22 @@ audio or video
 ---
 
 ## requirements
-
 - Python 3.12+
 - pytubefix
 
 ---
 
 ## Installation
-install Python**
+- install Python - Download install manager from [python.org](https://www.python.org/downloads/). During install, make sure to say yes to py**"Add Python to PATH"**
+- download this ZIP and extract it.
+- go to your command line, cd where the zip is extracted to and install dependencies:
 
-Download from [python.org](https://www.python.org/downloads/). 
-During install, make sure to tick **"Add Python to PATH"**
-
-download this repo**
-download the ZIP and extract it.
-
-dependencies**
 ```
 pip install -r requirements.txt
 ```
----
 
-## Files
-
-| File | What it is |
-|---|---|
-| `ytdownloader.pyw` | The app itself |
-| `youtube_downloader.ps1` | Launcher — opens the GUI with no terminal window |
-| `requirements.txt` | Python dependencies |
+- double click tubegrab.pyw
+- enjoy :)))
 
 ---
 
