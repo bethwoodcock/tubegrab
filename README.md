@@ -11,7 +11,7 @@ audio or video
 ---
 
 ## Installation
-- install Python - Download install manager from [python.org](https://www.python.org/downloads/). During install, make sure to say yes to py**"Add Python to PATH"**
+- install Python - Download install manager from [python.org](https://www.python.org/downloads/). During install, make sure to say yes to **"Add Python to PATH"** and the long character thingy
 - download this ZIP and extract it.
 - go to your command line, cd where the zip is extracted to and install dependencies:
 
