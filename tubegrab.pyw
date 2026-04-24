@@ -28,7 +28,7 @@ FONT_SMALL = ("Courier New", 9)
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("yt-dl")
+        self.title("tubegrab")
         self.resizable(False, False)
         self.configure(bg=BG)
 
@@ -36,7 +36,7 @@ class App(tk.Tk):
         hdr = tk.Frame(self, bg=BG, padx=32, pady=24)
         hdr.pack(fill="x")
 
-        tk.Label(hdr, text="▶  yt-dl", font=FONT_TITLE,
+        tk.Label(hdr, text="▶  tubegrab", font=FONT_TITLE,
                  bg=BG, fg=ACCENT).pack(anchor="w")
         tk.Label(hdr, text="paste a youtube url and hit download",
                  font=FONT_SMALL, bg=BG, fg=MUTED).pack(anchor="w")
